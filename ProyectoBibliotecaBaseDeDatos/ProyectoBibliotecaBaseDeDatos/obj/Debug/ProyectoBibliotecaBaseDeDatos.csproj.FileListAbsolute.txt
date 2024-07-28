@@ -1,0 +1,54 @@
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\bin\Debug\ProyectoBibliotecaBaseDeDatos.exe.config
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\bin\Debug\ProyectoBibliotecaBaseDeDatos.exe
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\bin\Debug\ProyectoBibliotecaBaseDeDatos.pdb
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MainWindow.g.cs
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\App.g.cs
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos_MarkupCompile.cache
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos_MarkupCompile.lref
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MainWindow.baml
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.g.resources
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.Properties.Resources.resources
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.csproj.GenerateResource.cache
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.exe
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.pdb
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\RegistroUsuarios.g.cs
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\RegistroUsuarios.baml
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\CambioContraseña.g.cs
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\CambioContraseña.baml
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\Menu.g.cs
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\Menu.baml
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MenuVentana.g.cs
+C:\Users\THERMALTAKE\source\repos\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MenuVentana.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\bin\Debug\ProyectoBibliotecaBaseDeDatos.exe.config
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\bin\Debug\ProyectoBibliotecaBaseDeDatos.exe
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\bin\Debug\ProyectoBibliotecaBaseDeDatos.pdb
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\AddLibrosPage.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\CambioContraseña.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MainWindow.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\Menu.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MenuVentana.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\RegistroUsuarios.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\App.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos_MarkupCompile.cache
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos_MarkupCompile.lref
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\CambioContraseña.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MainWindow.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\Menu.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\MenuVentana.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\RegistroUsuarios.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\AddLibrosPage.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.g.resources
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.Properties.Resources.resources
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.csproj.GenerateResource.cache
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.exe
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\ProyectoBibliotecaBaseDeDatos.pdb
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\BuscarLibroPage.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\BuscarLibroPage.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\PerfilPage.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\PerfilPage.baml
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\EliminarCuentaWindow.g.cs
+C:\Users\THERMALTAKE\Desktop\Curso Udemy\ProyectoBibliotecaBaseDeDatos\ProyectoBibliotecaBaseDeDatos\obj\Debug\EliminarCuentaWindow.baml

@@ -1,0 +1,100 @@
+﻿<Window x:Class="ProyectoBibliotecaBaseDeDatos.EliminarCuentaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoBibliotecaBaseDeDatos"
+        mc:Ignorable="d"
+        Title="EliminarCuentaWindow" Height="150" Width="300" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                <GradientStop Color="DarkRed" Offset="0"/>
+                <GradientStop Color="Red" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Estas seguro de que deseas eliminar tu cuenta?" FontSize="15" FontWeight="Bold" TextAlignment="Center" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button Grid.Row="1" Height="35" Width="50" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0, 15, 150, 0" Click="Si_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Name="bSi" CornerRadius="5" BorderThickness="3" BorderBrush="Black">
+                        <Border.Background>
+                            <RadialGradientBrush>
+                                <GradientStop Color="#FF9400FF" Offset="0.0"/>
+                                <GradientStop Color="#FF8204A9" Offset="1.0"/>
+                            </RadialGradientBrush>
+                        </Border.Background>
+                        <Border.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="2" ShadowDepth="4"/>
+                        </Border.Effect>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bSi" Property="Background">
+                                <Setter.Value>
+                                    <RadialGradientBrush>
+                                        <GradientStop Color="#FF8204A9" Offset="0.0"/>
+                                        <GradientStop Color="#FF9400FF" Offset="1.0"/>                                        
+                                    </RadialGradientBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter TargetName="bSi" Property="BorderThickness" Value="6"/>
+                            <Setter TargetName="bSi" Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="Black" BlurRadius="4" ShadowDepth="8"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <TextBlock Text="Si" FontSize="15" FontWeight="Bold"/>
+            </Button.Content>
+        </Button>
+        <Button Grid.Row="1" Height="35" Width="50" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="150, 15, 0, 0" Click="No_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Name="bNo" CornerRadius="5" BorderThickness="3" BorderBrush="Black">
+                        <Border.Background>
+                            <RadialGradientBrush>
+                                <GradientStop Color="#FF9400FF" Offset="0.0"/>
+                                <GradientStop Color="#FF8204A9" Offset="1.0"/>
+                            </RadialGradientBrush>
+                        </Border.Background>
+                        <Border.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="2" ShadowDepth="4"/>
+                        </Border.Effect>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bNo" Property="Background">
+                                <Setter.Value>
+                                    <RadialGradientBrush>
+                                        <GradientStop Color="#FF8204A9" Offset="0.0"/>
+                                        <GradientStop Color="#FF9400FF" Offset="1.0"/>
+                                    </RadialGradientBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter TargetName="bNo" Property="BorderThickness" Value="6"/>
+                            <Setter TargetName="bNo" Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="Black" BlurRadius="4" ShadowDepth="8"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <TextBlock Text="No" FontSize="15" FontWeight="Bold"/>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

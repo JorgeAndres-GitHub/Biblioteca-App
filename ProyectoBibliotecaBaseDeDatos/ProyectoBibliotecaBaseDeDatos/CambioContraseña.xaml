@@ -1,0 +1,93 @@
+﻿<Window x:Class="ProyectoBibliotecaBaseDeDatos.CambioContraseña"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoBibliotecaBaseDeDatos"
+        mc:Ignorable="d"
+        Title="CambioContraseña" Height="360" Width="700">
+    <Grid Background="Black">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="160"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.ColumnSpan="2" Text="CAMBIO DE CONTRASEÑA" Foreground="Yellow" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="30" Margin="0, 30, 0, 0" FontStyle="Oblique"></TextBlock>
+        <TextBlock Text="Nueva contraseña:" FontSize="25" Grid.Column="0" Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Yellow" Margin="0, 20, 0, 0"/>
+        <PasswordBox Name="pbMiContraseñaActualizada1" Grid.Row="1" Grid.Column="0" Height="30" Width="300" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <PasswordBox.Style>
+                <Style TargetType="PasswordBox">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate>
+                                <Border Background="AliceBlue" CornerRadius="15" BorderThickness="4" BorderBrush="AntiqueWhite">
+                                    <ScrollViewer Margin="0" x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </PasswordBox.Style>
+        </PasswordBox>
+        <TextBlock Text="Confirmar contraseña:" Margin="0, 20, 0, 0" FontSize="25" Grid.Column="1" Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="Yellow"/>
+        <PasswordBox Name="pbMiContraseñaActualizada2" Grid.Row="1" Grid.Column="1" Height="30" Width="300" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <PasswordBox.Style>
+                <Style TargetType="PasswordBox">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate>
+                                <Border Background="AliceBlue" CornerRadius="15" BorderThickness="4" BorderBrush="AntiqueWhite">
+                                    <ScrollViewer Margin="0" x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </PasswordBox.Style>
+        </PasswordBox>
+        <Button Grid.ColumnSpan="2" Grid.Row="2" Width="250" Height="50" Click="ActualizarContrasenia_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Name="bd" CornerRadius="20" BorderThickness="5" BorderBrush="PaleVioletRed">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                <GradientStop Color="Red" Offset="0"/>
+                                <GradientStop Color="DarkRed" Offset="1" />
+                            </LinearGradientBrush>
+                        </Border.Background>
+                        <Border.Effect>
+                            <DropShadowEffect Color="Violet" BlurRadius="10" ShadowDepth="5"/>
+                        </Border.Effect>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="bd" Property="Background">
+                                <Setter.Value>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                        <GradientStop Color="DarkRed" Offset="0" />
+                                        <GradientStop Color="Red" Offset="1"/>                                        
+                                    </LinearGradientBrush>
+                                </Setter.Value>
+                            </Setter>
+                            <Setter TargetName="bd" Property="BorderBrush" Value="DarkOrange"/>
+                            <Setter TargetName="bd" Property="BorderThickness" Value="7"/>
+                            <Setter TargetName="bd" Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="Purple" BlurRadius="15" ShadowDepth="10"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <TextBlock Text="Actualizar" FontSize="30" FontWeight="Bold" Foreground="Green" FontStyle="Italic"/>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>
